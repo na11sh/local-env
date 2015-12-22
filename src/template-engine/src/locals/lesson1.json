@@ -1,0 +1,16 @@
+{
+  "description": "サンプルdescription : lesson1",
+  "news": [{
+    "title": "ニュースLESSON1-1",
+    "contents": "lesson1のニュース1つ目です。"
+  }, {
+    "title": "ニュースLESSON1-2",
+    "contents": "lesson1のニュース2つ目です。"
+  }, {
+    "title": "ニュースLESSON1-3",
+    "contents": "lesson1のニュース3つ目です。"
+  }, {
+    "title": "ニュースLESSON1-4",
+    "contents": "lesson1のニュース4つ目です。"
+  }]
+}

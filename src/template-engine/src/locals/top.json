@@ -1,0 +1,16 @@
+{
+  "description": "サンプルdescription : top",
+  "news": [{
+    "title": "ニュースTOP1",
+    "contents": "topのニュース1つ目です。"
+  }, {
+    "title": "ニュースTOP2",
+    "contents": "topのニュース2つ目です。"
+  }, {
+    "title": "ニュースTOP3",
+    "contents": "topのニュース3つ目です。"
+  }, {
+    "title": "ニュースTOP4",
+    "contents": "topのニュース4つ目です。"
+  }]
+}
