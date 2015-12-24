@@ -17,6 +17,7 @@ $ nvm install v0.12.4
 $ nvm alias default v0.12.4
 $ npm install -g casperjs
 $ npm install -g jade
+$ npm install -g gulp
 ```
 
 ## テスト
@@ -47,3 +48,16 @@ $ node build-sample.js
 - [Jade FTW](https://gist.github.com/japboy/5402844)
 - [10分でわかるjadeテンプレートエンジン](http://blog.craftgear.net/4f501e97c1347ec934000001/title/10%E5%88%86%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8Bjade%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)
 - [小規模静的サイト開発のためのメタ言語](http://qiita.com/mizdra/items/ae766eb9bc9e562344a6#_reference-cf1fbd356da4dcd7a03d)
+
+### gulp サンプル
+
+Windows ホストの場合、管理者権限で起動したプロンプトから仮想マシンを起動すること
+
+```
+$ mkdir -p dev/ gulp-sample && cd dev/gulp-sample
+$ cp /vagrant/src/gulp-sample/package.json .
+$ npm install
+$ cp /vagrant/src/gulp-sample/gulpfile.js .
+$ gulp
+
+```
