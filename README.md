@@ -59,5 +59,12 @@ $ cp /vagrant/src/gulp-sample/package.json .
 $ npm install
 $ cp /vagrant/src/gulp-sample/gulpfile.js .
 $ gulp
-
 ```
+
+#### 参考リンク
+
+- [テンプレートエンジン「EJS」とタスクランナー「Gulp.js」で爆速HTMLコーディング](http://liginc.co.jp/web/html-css/html/144170)
+- [EJS と gulp を利用した HTML の生成](http://qiita.com/iktakahiro/items/8569ff9ec0158e518393)
+- [gulpで手軽にEJSテンプレートをHTMLに変換](http://qiita.com/yuichiroharai/items/63b0769bc8ebe0220018)
+- [Gulp.js+EJS+JSONを使った複数ページの生成方法](http://aircolor.hatenablog.com/entry/2015/05/24/234307)
+- [Gulp.js入門 – コーディングを10倍速くする環境を作る方法まとめ](http://liginc.co.jp/web/tutorial/117900#sec04)
